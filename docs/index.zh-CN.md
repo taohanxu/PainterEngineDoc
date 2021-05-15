@@ -14,7 +14,9 @@ hero:
       link: /develop/start
 
 footer: Open-source BSD-3-Clause License | 闽ICP备2021005198号-1 <br />Powered by <a href="https://www.zhihu.com/people/DBinary">DBinary<a/>
----## 轻松上手
+---
+
+## 轻松上手
 
 build 构建 PainterEngine
 
@@ -39,4 +41,4 @@ $ xmake
 
 请访问 [GitHub](https://github.com/matrixcascade/PainterEngine) 或加入讨论群：
 
-<img src="http://taohanxu.cn:9000/pendoc/qqclub.png" width="260" />
+<img src="./qqclub.png" width="260" />

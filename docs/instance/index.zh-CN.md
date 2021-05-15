@@ -12,7 +12,7 @@ toc: menu
 使用 PainterEngine 3D 管线渲染的一个带有简单光照的斯坦福兔子。
 [示例程序及源代码](http://painterengine.com/main/instances/instance2021051301/project.zip)
 
-![](http://painterengine.com/main/instances/instance2021051301/image.gif)
+![](./image.gif)
 
 ## 星际老司机
 
@@ -22,10 +22,10 @@ toc: menu
 
 \*与当前版本 PainterEngine 存在兼容问题
 
-![](http://painterengine.com/main/instances/instance2021051302/image.gif)
+![](./image1.gif)
 
 ## 卡尔曼滤波
 
 使用 PainterEngine KalmanFilter 开发的温度预测实例[下载](http://painterengine.com/main/instances/instance2021051401/project.zip)
 
-![](http://painterengine.com/main/instances/instance2021051401/image.png)
+![](./image2.png)
