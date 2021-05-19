@@ -1,5 +1,7 @@
 # Painter Engine 开发文档
 
+[预览文档](https://taohanxu.github.io/PainterEngineDoc/)
+
 ## 快速开始
 
 ```bash
