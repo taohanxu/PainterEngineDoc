@@ -2,10 +2,11 @@
 title: 实例
 nav:
   title: 实例
+  order: 3
 toc: menu
 ---
 
-# 样品展示
+# 实例展示
 
 ## 3D bunny
 

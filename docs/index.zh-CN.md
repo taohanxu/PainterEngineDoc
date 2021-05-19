@@ -6,17 +6,15 @@ order: 10
 hero:
   title: PainterEngine
 
-  desc: 📖 一个高性能、平台无关的、高度可移植、完整开源的游戏引擎  <br /> <br />  <img src="https://img.shields.io/github/stars/matrixcascade/PainterEngine?color=green&label=Github%20Stars&style=for-the-badge" />
+  desc: 📖 一个高性能、平台无关的、高度可移植、完整开源的游戏引擎  <br /> （民间野生文档，官方文档移步<a href="http://painterengine.com">painterengine.com <a/> ） <br /><br />  <img src="https://img.shields.io/github/stars/matrixcascade/PainterEngine?color=green&label=Github%20Stars&style=for-the-badge" />
 
   actions:
     - text: 快速上手
 
       link: /develop/start
 
-footer: Open-source BSD-3-Clause License | 闽ICP备2021005198号-1 <br />Powered by <a href="https://www.zhihu.com/people/DBinary">DBinary<a/>
----
-
-## 轻松上手
+footer: Open-source MIT License  <br />PainterEngine原作者 <a href="https://www.zhihu.com/people/DBinary">DBinary<a/>
+---## 轻松上手
 
 build 构建 PainterEngine
 
